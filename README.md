@@ -1,6 +1,9 @@
-# Livro de receitas 
+# Primeiro desafio do Bootcamp TQI Fullstack da DIO 🧗
 
-Capa do livro de receitas
+Esse repositório faz parte do desafio do Módulo I - Etapa: "Criando seu primeiro repositório no GitHub para compartilhar seu progresso" do bootcamp. 
 
- - Lasanha de Berinjela
- - Hommus
+## Proposta do desafio
+
+- Criar o repositório local utilizando os comandos dados nas aulas.
+- Criar o repositório remoto também utilizando os passos dados nas aulas. 
+- Linkar os dois repositórios conforme mostrado na aulas.
